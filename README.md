@@ -8,7 +8,7 @@
 <h2>⚙️ Quick Start</h2>
 
 <pre><code>npm install
-npx expo start
+npx expo start 
 </code></pre>
 
 <p>Once started, you can open your app in:</p>
